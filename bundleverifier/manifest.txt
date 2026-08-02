@@ -1,0 +1,5 @@
+version=2.0-2022.3.22
+file=BundleVerifier.zip
+sha256=e4f976bffd90df9db827a484d02f0b3d695d09bce9532ad9b758e28099467bc4
+size=18473222
+unity=2022.3.22f1

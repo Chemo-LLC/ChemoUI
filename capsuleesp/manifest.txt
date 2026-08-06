@@ -1,0 +1,6 @@
+version=1.0-2022.3.22
+file=capsuleesp.bundle
+sha256=00dce447a63eb69a4f90c5b0ba6b062ecbceb5bc415feda96117b35600b3d621
+size=8140
+unity=2022.3.22f1
+shader=Fjell/CapsuleESP
